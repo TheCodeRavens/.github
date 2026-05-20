@@ -12,7 +12,7 @@ CodeRavens is a collaborative community for coders, AI engineers, robotics enthu
 - Hackathons & challenges
 
 ## 🌟 Join The Community
-- Discord
+- Discord:https://discord.gg/b5Ee2cdSy7
 - WhatsApp
 - GitHub
 
