@@ -13,8 +13,8 @@ CodeRavens is a collaborative community for coders, AI engineers, robotics enthu
 
 ## 🌟 Join The Community
 - Discord:https://discord.gg/b5Ee2cdSy7
-- WhatsApp:https://github.com/CodeRavens
-- GitHub
+- WhatsApp
+- GitHub:https://github.com/CodeRavens
 
 ## 🛠 Tech Areas
 - AI/ML
